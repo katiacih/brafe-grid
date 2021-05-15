@@ -3,7 +3,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
-# Wildbeast - projeto curso origamid
+# BRAFE - projeto curso origamid
 Projeto demonstrativo apenas para pratica de front end
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
